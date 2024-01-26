@@ -33,7 +33,7 @@ Funções | [Exercício02](./Ex-%20Funcoes/ex2.py) | [Marcia Pinto Barcelo](http
 Funções | [Exercício03](./Ex-%20Funcoes/ex3.py) | [Izadora Sobral](https://github.com/izadorasobral)
 Funções | [Exercício04](./Ex-%20Funcoes/ex4.py) | [Izadora Sobral](https://github.com/izadorasobral)
 Funções | [Exercício05](./Ex-%20Funcoes/ex5.py) | [Izadora Sobral](https://github.com/izadorasobral)
-Funções | [Exercício05](./Ex-%20Funcoes/ex5.py) | [Lívia Raiane do Nascimento](https://github.com/livnascimento)
+Funções | [Exercício06](./Ex-%20Funcoes/ex6.py) | [Lívia Raiane do Nascimento](https://github.com/livnascimento)
 
 
 ### Integrantes do squad:
