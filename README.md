@@ -34,22 +34,3 @@ Funções | [Exercício03](./Ex-%20Funcoes/ex3.py) | [Izadora Sobral](https://gi
 Funções | [Exercício04](./Ex-%20Funcoes/ex4.py) | [Izadora Sobral](https://github.com/izadorasobral)
 Funções | [Exercício05](./Ex-%20Funcoes/ex5.py) | [Izadora Sobral](https://github.com/izadorasobral)
 Funções | [Exercício06](./Ex-%20Funcoes/ex6.py) | [Lívia Raiane do Nascimento](https://github.com/livnascimento)
-
-
-### Integrantes do squad:
-
-#### [Adrielly Ribeiro](https://github.com/Eidryel2)
-#### Beatriz Mendes da Silva
-#### [Débora Evilaine Sousa Moreira](https://github.com/debora-evilaine)
-#### [Emanuelle Cruz](https://github.com/manuscruz)
-#### [Izadora Sobral](https://github.com/izadorasobral)
-#### [Lívia Raiane do Nascimento](https://github.com/livnascimento)
-#### [Lucia Ribeiro Durães](https://github.com/luhduraes)
-#### [Marcia Pinto Barcelo](https://github.com/Mpbarcelo)
-#### [Mariana Lemos Muller](https://github.com/MariMueller)
-#### [Nayara Aguiar Silva](https://github.com/devnayarasilva)
-#### [Vanilza F. Silvestre](https://github.com/Vaflosima)
-
-### Como as tarefas foram distribuídas?
-
-#### texto aqui
