@@ -11,7 +11,7 @@ Conceitos básicos | [Exercício06](./Ex%20-%20Conceitos%20basicos/atividade6.py
 Conceitos básicos | [Exercício07](./Ex%20-%20Conceitos%20basicos/atividade7.py) | [Mariana Lemos Muller](https://github.com/MariMueller)
 Conceitos básicos | [Exercício08](./Ex%20-%20Conceitos%20basicos/atividade8.py) | [Mariana Lemos Muller](https://github.com/MariMueller)
 Conceitos básicos | [Exercício09](./Ex%20-%20Conceitos%20basicos/atividade9.py) | [Mariana Lemos Muller](https://github.com/MariMueller)
-Conceitos básicos | [Exercício10](./Ex%20-%20Conceitos%20basicos/atividade10.py) | Beatriz Mendes da Silva
+Conceitos básicos | [Exercício10](./Ex%20-%20Conceitos%20basicos/atividade10.py) | [Beatriz Mendes da Silva](https://github.com/falakbea)
 Tomada de decisão | [Exercício01](./Ex-%20Tomada%20de%20decisao/ex1.py) | Beatriz Mendes da Silva
 Tomada de decisão | [Exercício02](./Ex-%20Tomada%20de%20decisao/ex2.py) | Beatriz Mendes da Silva
 Tomada de decisão | [Exercício03](./Ex-%20Tomada%20de%20decisao/ex3.py) | [Débora Evilaine Sousa Moreira](https://github.com/debora-evilaine)
